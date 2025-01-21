@@ -1,0 +1,140 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color: white;
+    max-width: 1900px;
+    margin: auto;
+}
+
+.container-main{
+    background-color: #bbedc2;
+    padding: 10px;
+    margin: 10px;
+    border:5px solid #007416;
+}
+
+.container-top{
+    background-color: #9ed2e1;
+    padding: 20px;
+    margin: 20px;
+    border:5px solid #000df8;
+    height: 175px;
+    display: flex;
+}
+
+.container-mid{
+    padding: 10px;
+    display: flex;
+    margin: 10px;
+    height: 400px;
+}
+
+.container-bot{
+    background-color: #9ed2e1;
+    padding: 20px;
+    margin: 20px;
+    height: 175px;
+    border:5px solid #000df8;
+    display: flex;
+}
+
+.top1{
+    background-color: #ffd5b3;
+    padding: 20px;
+    margin-right: 10px;
+    border:5px solid #ff756a;
+    flex: 1;
+}
+
+.top2{
+    background-color: #ffd5b3;
+    padding: 5px;
+    margin-right: 10px;
+    border:5px solid #ff756a;
+    display: flex;
+    flex: 1;
+}
+
+.top3{
+    background-color: #ffd5b3;
+    padding: 20px;
+    border:5px solid #ff756a;
+    flex: 1;
+}
+
+.top2-1{
+    background-color: #ffb8c4;
+    border:5px solid #ff071b;
+    flex: 1;
+}
+
+.top2-2{
+    background-color: #ffb8c4;
+    border:5px solid #ff071b;
+    flex: 1;
+}
+
+.mid-left{
+    background-color: #ffb3b4;
+    border:5px solid #a22629;
+    flex: 1;
+    margin-right: 10px;
+}
+
+.mid-right{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-left: 5px;
+}
+
+.mid-right-top{
+    background-color: #ffb3b4;
+    border:5px solid #a22629;
+    flex: 1;
+    margin-bottom: 5px;
+}
+
+.mid-right-bot{
+    background-color: #ffb3b4;
+    border:5px solid #a22629;
+    flex: 1;
+    margin-top: 5px;
+}
+
+.bot1{
+    background-color: #ded9fd;
+    border:5px solid #5e50c2;
+    flex: 1;
+    margin-right: 5px;
+}
+
+.bot2{
+    display: flex;
+    flex: 1;
+    margin-right: 5px;
+
+}
+.bot2-left{
+    background-color: #ffd5b3;
+    border:5px solid #ff756a;
+    display: flex;
+    flex: 1;
+    margin-right: 5px;
+}
+
+.bot2-right{
+    background-color: #ffd5b3;
+    border:5px solid #ff756a;
+    display: flex;
+    flex: 1;
+}
+
+
+.bot3{
+    background-color: #ded9fd;
+    border:5px solid #5e50c2;
+    flex: 1;
+}
