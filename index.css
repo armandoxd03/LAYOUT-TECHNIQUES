@@ -3,17 +3,17 @@
 }
 
 body{
-    padding: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
     color: black;
-    max-width: 1900px;
+    max-width: 2000px;
     margin: auto;
     text-align: center;
 }
 
 .container-main{
     background-color: #bbedc2;
-    padding: 10px;
-    margin: 10px;
+    padding: 13px;
     border: 6px solid #007416;
 }
 
@@ -22,22 +22,22 @@ body{
     padding: 20px;
     margin: 20px;
     border: 6px solid #000df8;
-    height: 178px;
+    height: 163px;
     display: flex;
 }
 
 .container-mid{
-    padding: 10px;
+    padding: 5px;
     display: flex;
     margin: 10px;
-    height: 385px;
+    height: 315px;
 }
 
 .container-bot{
     background-color: #9ed2e1;
-    padding: 15px;
+    padding: 10px;
     margin: 20px;
-    height: 160px;
+    height: 135px;
     border: 6px solid #000df8;
     display: flex;
 }
