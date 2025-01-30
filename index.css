@@ -30,14 +30,14 @@ body{
     padding: 10px;
     display: flex;
     margin: 10px;
-    height: 370px;
+    height: 385px;
 }
 
 .container-bot{
     background-color: #9ed2e1;
     padding: 15px;
     margin: 20px;
-    height: 165px;
+    height: 160px;
     border: 6px solid #000df8;
     display: flex;
 }
