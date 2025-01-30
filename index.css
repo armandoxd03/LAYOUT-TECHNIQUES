@@ -20,7 +20,7 @@ body{
 .container-top{
     background-color: #9ed2e1;
     padding: 20px;
-    margin: 20px;
+    margin: 15px;
     border: 7px solid #000df8;
     height: 163px;
     display: flex;
@@ -29,14 +29,14 @@ body{
 .container-mid{
     padding: 10px;
     display: flex;
-    margin: 10px;
+    margin: 5px;
     height: 315px;
 }
 
 .container-bot{
     background-color: #9ed2e1;
     padding: 13px;
-    margin: 20px;
+    margin: 15px;
     height: 135px;
     border: 7px solid #000df8;
     display: flex;
