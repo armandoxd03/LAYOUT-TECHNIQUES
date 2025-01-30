@@ -3,8 +3,8 @@
 }
 
 body{
-    padding-left: 50px;
-    padding-right: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
     color: black;
     max-width: 2000px;
     margin: auto;
@@ -14,14 +14,14 @@ body{
 .container-main{
     background-color: #bbedc2;
     padding: 13px;
-    border: 6px solid #007416;
+    border: 7px solid #007416;
 }
 
 .container-top{
     background-color: #9ed2e1;
     padding: 20px;
     margin: 20px;
-    border: 6px solid #000df8;
+    border: 7px solid #000df8;
     height: 163px;
     display: flex;
 }
@@ -38,7 +38,7 @@ body{
     padding: 13px;
     margin: 20px;
     height: 135px;
-    border: 6px solid #000df8;
+    border: 7px solid #000df8;
     display: flex;
 }
 
@@ -46,7 +46,7 @@ body{
     background-color: #ffd5b3;
     padding: 20px;
     margin-right: 5px;
-    border: 6px solid #ff756a;
+    border: 7px solid #ff756a;
     flex: 1;
 }
 
@@ -55,7 +55,7 @@ body{
     padding: 8px;
     margin-left: 10px;
     margin-right: 10px;
-    border: 6px solid #ff756a;
+    border: 7px solid #ff756a;
     display: flex;
     flex: 1;
 }
@@ -64,25 +64,25 @@ body{
     background-color: #ffd5b3;
     padding: 20px;
     margin-left: 5px;
-    border: 6px solid #ff756a;
+    border: 7px solid #ff756a;
     flex: 1;
 }
 
 .top2-1{
     background-color: #ffb8c4;
-    border: 6px solid #ff071b;
+    border: 7px solid #ff071b;
     flex: 1;
 }
 
 .top2-2{
     background-color: #ffb8c4;
-    border: 6px solid #ff071b;
+    border: 7px solid #ff071b;
     flex: 1;
 }
 
 .mid-left{
     background-color: #ffb3b4;
-    border: 6px solid #a22629;
+    border: 7px solid #a22629;
     flex: 1;
     margin-right: 10px;
 }
@@ -96,21 +96,21 @@ body{
 
 .mid-right-top{
     background-color: #ffb3b4;
-    border: 6px solid #a22629;
+    border: 7px solid #a22629;
     flex: 1;
     margin-bottom: 7px;
 }
 
 .mid-right-bot{
     background-color: #ffb3b4;
-    border: 6px solid #a22629;
+    border: 7px solid #a22629;
     flex: 1;
     margin-top: 7px;
 }
 
 .bot1{
     background-color: #ded9fd;
-    border: 6px solid #5e50c2;
+    border: 7px solid #5e50c2;
     flex: 1;
     margin-right: 4px;
 }
@@ -124,7 +124,7 @@ body{
 }
 .bot2-left{
     background-color: #ffd5b3;
-    border: 6px solid #ff756a;
+    border: 7px solid #ff756a;
     display: flex;
     flex: 1;
     margin-right: 4px;
@@ -132,7 +132,7 @@ body{
 
 .bot2-right{
     background-color: #ffd5b3;
-    border: 6px solid #ff756a;
+    border: 7px solid #ff756a;
     display: flex;
     flex: 1;
     margin-left: 4px;
@@ -141,7 +141,7 @@ body{
 
 .bot3{
     background-color: #ded9fd;
-    border: 6px solid #5e50c2;
+    border: 7px solid #5e50c2;
     flex: 1;
     margin-left: 3px;
 }
